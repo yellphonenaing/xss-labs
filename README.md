@@ -5,13 +5,16 @@
 **Install Labs (Linux)**
 ```
 sudo apt install php -y
+sudo apt install git -y
 cd
 git clone https://github.com/yellphonenaing/xss-labs
 ```
 
 **Install Labs (Termux)**
 ```
+pkg update && pkg upgrade
 pkg install php -y
+pkg install git -y
 cd
 git clone https://github.com/yellphonenaing/xss-labs
 ```
