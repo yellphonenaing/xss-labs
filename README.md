@@ -18,6 +18,5 @@ git clone https://github.com/yellphonenaing/xss-labs
 
 **Start Labs (Linux | Termux)**
 ```
-sudo apt install php
 cd ~/xss-labs && php -S 127.0.0.1:8008
 ```
