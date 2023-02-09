@@ -1,7 +1,7 @@
 # xss-labs
 > XSS Labs By Yell Phone Naing
 
-![XSS LAbs](https://raw.githubusercontent.com/yellphonenaing/xss-labs/main/Screenshot_2023-02-06_08_58_22.png)
+![XSS Labs](https://raw.githubusercontent.com/yellphonenaing/xss-labs/main/Screenshot_2023-02-06_08_58_22.png)
 
 **Install Labs (Linux)**
 ```
